@@ -1,7 +1,6 @@
 # Nike Store - Flutter Shoe Ordering App
-<div style="text-align:center;">
-  <img src="https://github.com/3MR7OSSAM/Flutter-Nike-Store/assets/83048066/5ba7f5f9-d4dc-45f7-9032-61fdda4e335e" alt="Nike Store App Screenshot" width="300" height="600">
-</div>
+<img src="https://github.com/3MR7OSSAM/Flutter-Nike-Store/assets/83048066/5ba7f5f9-d4dc-45f7-9032-61fdda4e335e" alt="Nike Store App Screenshot" width="250" height="500">
+
 Welcome to the Nike Store, a Flutter-based mobile application that allows users to explore and order a wide range of Nike shoes conveniently. Whether you're a sneaker enthusiast, an athlete, or simply looking for a comfortable pair of shoes, our app has you covered.
 
 ## Key Features
